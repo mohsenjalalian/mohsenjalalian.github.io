@@ -10,10 +10,10 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
-url:              'http://192.168.1.11:4000'
+title:            'Mohsen Jalalian'
+tagline:          'Mohsen Jalalian Page'
+description:      'Mohsen Jalalian Developer for linux web and other'
+url:              ''
 baseurl:          ''
 
 # Navigation
@@ -33,24 +33,24 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Mohsen Jalalian'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       'https://www.facebook.com/mohsenjalalian'
 flickr:
-github:         'https://github.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+github:         'https://github.com/mohsenjalalian'
+gplus:          'https://plus.google.com/jalalianmohsen/'
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/olakara/'
+linkedin:       'https://www.linkedin.com/in/mohsen-jalalian'
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+stackoverflow:  'https://stackoverflow.com/users/4834638/mohsen-jalalian'
+twitter:        'https://twitter.com/mohsenjalalian4'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: ''
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
